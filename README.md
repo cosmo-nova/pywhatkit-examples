@@ -6,6 +6,7 @@
 - [Technologies](#technologies)
 - [Libraries](#libraries)
 - [Setup](#setup)
+- [References](#references)
 
 ## General info
 
@@ -33,3 +34,7 @@ $pip install pywhatkit\
 $python pywhatkit-examples.py
 
 ---
+
+## References
+
+- [pywhatkit official site](https://pypi.org/project/pywhatkit/)
